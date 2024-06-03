@@ -1,0 +1,18 @@
+.boxes {
+  display: flex;
+  height: 200px;
+  width: 200px;
+  background: #7091e6;
+  border: 2px solid #244855;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.container img {
+  margin: 50px 50px;
+}
+
+.title img {
+  padding: 5px;
+  height: 50px;
+}
